@@ -23,3 +23,8 @@ img {
       text-align: start;
       
   }
+.sidebar {
+    width: 30%;
+    float: center;
+    background-color:darksalmon
+  }
