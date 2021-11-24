@@ -16,3 +16,10 @@ img {
     padding: 5px;
     width: 150px;
   }
+  ul {
+      text-align: initial;
+  }
+  ol {
+      text-align: start;
+      
+  }
